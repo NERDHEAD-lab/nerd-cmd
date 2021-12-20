@@ -1,2 +1,3 @@
-# nerd-cmd
-Support util for  cmd. like Template, Framework or JavaFx Gui
+# nerd-cmd-template
+
+Support util for cmd. Make easier with template pattern

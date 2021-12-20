@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/nerd-cmd-template.iml" filepath="$PROJECT_DIR$/.idea/nerd-cmd-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nerd-cmd-template-core/nerd-cmd-template-core.iml" filepath="$PROJECT_DIR$/nerd-cmd-template-core/nerd-cmd-template-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nerd-cmd-template-sample/nerd-cmd-template-sample.iml" filepath="$PROJECT_DIR$/nerd-cmd-template-sample/nerd-cmd-template-sample.iml" />
+    </modules>
+  </component>
+</project>
